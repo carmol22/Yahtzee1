@@ -1,0 +1,9 @@
+src
+static
+templates
+tests
+app.py
+test.py
+app.cgi
+.codetogether.ignore
+.venv
