@@ -5,9 +5,9 @@ Unit tests for the Hand class.
 import unittest
 import random
 import sys
-sys.path.append("..")
 from src.die import Die
 
+sys.path.append("..")
 
 class TestDie(unittest.TestCase):
     """
