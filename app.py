@@ -7,7 +7,6 @@ from src.hand import Hand
 
 app = Flask(__name__)
 
-
 @app.route("/")
 def main():
     """
